@@ -1,3 +1,3 @@
-# Reggie
+# ExpressEats
 
-Reggie - A Food Takeout Mobile Application With Optimized Server Data Management
+ExpressEats - A Food Takeout Mobile Application With Optimized Server Data Management
